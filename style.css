@@ -96,12 +96,15 @@ a:visited{
 }
 .bar1{
   top: 0;
+  transition: transform 300ms ease-in;
 }
 .bar2{
   top: calc(250%/6);
+  transition: opacity 100ms ease-in;
 }
 .bar3{
   bottom: 0;
+  transition: transform 300ms ease-in;
 }
 .contentContainer{
   width: min-content;
