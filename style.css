@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200&family=Lora:wght@500;700&family=Montserrat:wght@400;500;700&display=swap');
+.secondary{
+  height: 80vh;
+  align-self: center;
+}
 .bar1-animation {
   transform: rotate(45deg) translate(12%,220%);
   transition: transform 300ms ease-in ;
@@ -33,6 +37,7 @@ body {
   background-color: var(--background-color);
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
 }
 footer{
 
