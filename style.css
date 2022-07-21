@@ -100,7 +100,7 @@ a:visited{
 }
 .bar2{
   top: calc(250%/6);
-  transition: opacity 100ms ease-in;
+  transition: opacity 300ms ease-in;
 }
 .bar3{
   bottom: 0;
