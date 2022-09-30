@@ -20,3 +20,4 @@ for (var link of links) {
     else { link.classList.remove("underline"); }
   
 }
+alert('the purpose of this domo is animating a menu button manually\n use mobile view please !')
